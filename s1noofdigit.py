@@ -1,6 +1,6 @@
-num=int(input())
+ss1=int(input())
 count=0
-while(num>0):
+while(ss1>0):
     count=count+1
-    num=num//10
+    ss1=ss1//10
 print(count)
