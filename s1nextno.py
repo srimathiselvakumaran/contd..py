@@ -1,3 +1,3 @@
-sss=int(input())
-sss=sss+1
-print(sss)
+nn=int(input())
+nn=nn+1
+print(nn)
