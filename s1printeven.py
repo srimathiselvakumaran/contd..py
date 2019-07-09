@@ -1,5 +1,5 @@
-s1=int(input())
-if(s1%2==0):
-  print(s1)
+ss1=int(input())
+if(ss1%2==0):
+  print(ss1)
 else:
-  print(s1-1)
+  print(ss1-1)
