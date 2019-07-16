@@ -25,4 +25,4 @@ else :
         if ct in Lt :
             kt += 1
             Lt.remove(ct)
-    print(nt1-i-kt)
+    print(n1-i-kt)
